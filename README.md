@@ -12,6 +12,7 @@ Time spent: 8 hours spent in total
     - Tested in version: 4.2
     - Fixed in version: 4.2.15
   - [ ] GIF Walkthrough: 
+    ![exp1](https://user-images.githubusercontent.com/34077891/58152430-66161900-7c21-11e9-8bcf-c7b3974bec62.gif)
   - [ ] Steps to recreate: 
     - [Source](https://hackerone.com/reports/203515)
   - [ ] Affected source code:
