@@ -24,7 +24,8 @@ Time spent: 8 hours spent in total
     - Vulnerability types: XSS
     - Tested in version: 4.2
     - Fixed in version: 4.2.13
-  - [ ] GIF Walkthrough: 
+  - [ ] GIF Walkthrough:
+    ![exp2](https://user-images.githubusercontent.com/34077891/58152627-de7cda00-7c21-11e9-9467-413832a62c5b.gif)
   - [ ] Steps to recreate: 
     - [Source](https://seclists.org/oss-sec/2017/q1/563)
   - [ ] Affected source code:
