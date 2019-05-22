@@ -36,7 +36,8 @@ Time spent: 8 hours spent in total
     - Vulnerability types: XSS
     - Tested in version: 4.2
     - Fixed in version: 4.2.1
-  - [ ] GIF Walkthrough: 
+  - [ ] GIF Walkthrough:  
+    ![exp3](https://user-images.githubusercontent.com/34077891/58152709-0e2be200-7c22-11e9-8920-07aa8747e00a.gif)
   - [ ] Steps to recreate: 
     - [Source](https://klikki.fi/adv/wordpress2.html)
   - [ ] Affected source code:
